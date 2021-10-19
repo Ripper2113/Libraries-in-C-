@@ -1,1 +1,1 @@
-just mention the librarie sin c++
+just mention the libraries in c++
